@@ -4,6 +4,7 @@ Telegram bot that helps people who applying to universities.
 # Russian version:
 
 Ссылка для использования бота: https://t.me/save4students_bot
+
 Ссылка на видео и презентацию бота: https://disk.yandex.ru/d/YSSOUU0QeWezqA
 
 UniBot - это бот в Telegram, который будет помогать школьникам и абитуриетам не забыть о дедлайне и своевременно получать новости университета, без необходимости ежеминутно проверять сайт университета.
